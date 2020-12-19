@@ -6,7 +6,7 @@
 30.11.2020
 
 ### Exercise 1 (5 points)
-#### Let $\mathcal{L}$ be the language over the alphabet $\{a, b, c\}$ composed of words that contain pattern $acac$. Describe the appropriate finite automata and present the `OFG` for $\mathcal{L}$.
+#### Let <img src="https://render.githubusercontent.com/render/math?math=\mathcal{L}"> be the language over the alphabet $\{a, b, c\}$ composed of words that contain pattern $acac$. Describe the appropriate finite automata and present the `OFG` for $\mathcal{L}$.
 
 Having patern of length 4 finite automa has 5 stages. They are connected by following letters from string, different letters are conected to "lower" stages. After reaching 4th stage we stay in it even after appending aditional letters.
 
