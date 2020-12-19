@@ -26,13 +26,13 @@ Image(filename = "./Rys_1_Cw_3.png", width=600, height=200)
 
 To calculate OGF for class $\mathcal{L}$. Let first how lanugages $\mathcal{L_0}$, .., $\mathcal{L_4}$ are connected toghether.
 
-\begin{equation}
+$$\begin{equation}
 \mathcal{L_0}=a*\mathcal{L_1}+b*\mathcal{L_0}+c*\mathcal{L_0}\\
 \mathcal{L_1}=a*\mathcal{L_1}+b*\mathcal{L_0}+c*\mathcal{L_2}\\
 \mathcal{L_2}=a*\mathcal{L_3}+b*\mathcal{L_0}+c*\mathcal{L_0}\\
 \mathcal{L_3}=a*\mathcal{L_1}+b*\mathcal{L_0}+c*\mathcal{L_4}\\
 \mathcal{L_4}=a*\mathcal{L_4}+b*\mathcal{L_4}+c*\mathcal{L_4} +  \varepsilon 
-\end{equation}
+\end{equation}$$
 
 This gives rise to a set of equations for the associated OGFs
 
