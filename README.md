@@ -11,7 +11,7 @@ Based on [Analytic combinatorics P. Flajolet, R. Sedgewick](https://ac.cs.prince
 
 ### Supplemental instruction
 
-4 List of exercises.
+4 lists of exercises, mock exam and exam.
 
 ### Laboratory
 
