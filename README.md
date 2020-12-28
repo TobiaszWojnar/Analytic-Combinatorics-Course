@@ -13,13 +13,13 @@ Based on [Analytic combinatorics P. Flajolet, R. Sedgewick](https://ac.cs.prince
 
 4 lists of exercises, mock exam and exam.
 
-* [List 1](notebooks/List 1.ipynb)
+* [List 1](notebooks/List\ 1.ipynb)
 
 * [List 2](notebooks/List 2.ipynb)
 
-* [List 3](notebooks/List 3.ipynb)
+* [List 3](notebooks/List-3.ipynb)
 
-* [List 4](notebooks/List 4.ipynb)
+* [List 4](notebooks/List-4.ipynb)
 
 ### Laboratory
 
